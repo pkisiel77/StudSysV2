@@ -1,0 +1,3 @@
+/Users/pkisiel/CLionProjects/StudSysV2/cmake-build-debug/CMakeFiles/StudSysV2.dir
+/Users/pkisiel/CLionProjects/StudSysV2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pkisiel/CLionProjects/StudSysV2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
